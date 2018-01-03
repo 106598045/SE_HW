@@ -18,5 +18,6 @@ public class hw4 {
 		else if (score>=60 && score <70) grade = 'D'; 
 		else grade ='F'; 
 		return grade;  
+		
 	}
 }
