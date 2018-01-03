@@ -8,6 +8,7 @@ public class hw4 {
 		while(true) {
 			System.out.println(letterGrade(Integer.parseInt(scanner.nextLine())));
 		}
+		
 	}
 	
 	public static char letterGrade(int score) {
